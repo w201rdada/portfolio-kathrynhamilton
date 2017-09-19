@@ -1,4 +1,4 @@
-# Inforgraphic Database {#Spreading Knowledge, One Infographic at a Time}
+# Infographic Database {#Spreading Available Knowledge, One Infographic at a Time}
 
 #### Keywords
 
@@ -21,4 +21,8 @@ I would like to take advantage of these datasets to produce an educational visua
 
 ## An end.
 
-There are a few major considerations that will need to be solved. As effective an instructive tool as infographics may be, they are notorious for showing half truths, using data to skew ideas, or citing noncredible sources. Each of these problems will need to be assessed and protected against to ensure the truth of the data is conveyed most accurately.
+This tool provides an educational solution for people of any walk of life to visualize the reality of political, social, economic or environmental topics. Results of the product can be easily integrated with both formal reports and social media newsfeeds, or used directly as a tool in educational institutions and workplaces alike. 
+
+There are a major considerations that will need to be solved. As effective an instructive tool as infographics may be, they are notorious for showing half truths, using data to skew ideas, or citing noncredible sources. Each of these problems will need to be assessed and protected against to ensure the truth of the data is conveyed most accurately. In addition, readers can equally be mislead by poor selection of a visualization template. The algorithms to pull and process data must be safeguarded against accidental misuse or error.
+
+While there is potential to capitalize on the product, it may just as simply be constucted for non-profit use as well. Regardless, the overall product will be a valuable tool that brings two already existing worlds, media and research, together for the greater good. 
