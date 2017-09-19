@@ -12,16 +12,16 @@ Have you ever scrolled through your news feed to find an infographic displaying 
 
 Governments across the world collect and publish large amounts of data every year, typically obtained through censuses or other pointed studies. This data is readily available online, but often comes in the form of hefty files or long-winded reports. Other bodies, such as business or non-profit organizations, also collect and publish valuable information. The insights from these datasets, however, often don't make it past page three of a tab buried deep within an unassuming webpage.
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[Zabisco: Infographic Satire](http://www.dividist.com/2012/04/meta-infographic-on-infographics.html)',fig.align='center',out.width='50%'}
-knitr::include_graphics('http://2.bp.blogspot.com/-gPJw1yZxAk0/T20nsAqW60I/AAAAAAAAOt8/OK2P-NaRGRw/s1600/satirical%2Binfographic%2Bhack%2Bbloodshot.png')
-```
-
 I would like to take advantage of these datasets to produce an educational visualization database and search tool. The product would routinely read and process data posted by verifiable research bodies. Each data set would be tagged by topic, using natural language processing, and then assigned a visualization style or template using a set of best-practice rules and machine learning algorithms. The results will be placed in an online database that can be searched by users. Ideally, the tool would also allow users to customize the content of their own infographics while ensuring statistical integrity.
 
 ## An end.
 
 This tool provides an educational solution for people of any walk of life to visualize the reality of political, social, economic or environmental topics. Results of the product can be easily integrated with both formal reports and social media newsfeeds, or used directly as a tool in educational institutions and workplaces alike. 
+
+<!-- ...or include images directly from the web. Cite your sources! -->
+```{r machine-learning,echo=FALSE,fig.cap='[Zabisco: Infographic Satire](http://www.dividist.com/2012/04/meta-infographic-on-infographics.html)',fig.align='center',out.width='50%'}
+knitr::include_graphics('http://2.bp.blogspot.com/-gPJw1yZxAk0/T20nsAqW60I/AAAAAAAAOt8/OK2P-NaRGRw/s1600/satirical%2Binfographic%2Bhack%2Bbloodshot.png')
+```
 
 There are a major considerations that will need to be solved. As effective an instructive tool as infographics may be, they are notorious for showing half truths, using data to skew ideas, or citing noncredible sources. Each of these problems will need to be assessed and protected against to ensure the truth of the data is conveyed most accurately. In addition, readers can equally be mislead by poor selection of a visualization template. The algorithms to pull and process data must be safeguarded against accidental misuse or error.
 
