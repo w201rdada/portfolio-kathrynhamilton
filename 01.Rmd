@@ -6,7 +6,8 @@ infographic, database, integrity, social media, knowledge, facts
 
 ## The Problem: The Underused Value of Research
 
-Have you ever scrolled through your news feed to find an infographic displaying a few simple statistics that blow your mind? Social and political issues are often highlighted in this manner, for example a short video clip outlining information about women in the work place or average wage by ethnicity. 
+Have you ever scrolled through your news feed to find an infographic displaying a few simple statistics that blow your mind. 
+Social and political issues are often highlighted in this manner, for example a short video clip outlining information about women in the work place or average wage by ethnicity. 
 These tidbits of tangible information shared in a simple and clean way are incredibly informative and eye-opening. 
 If you could, wouldn't you want to have access to a tool that produces custom visualizations with valuable information on almost any topic you can imagine?
 
