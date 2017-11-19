@@ -14,20 +14,8 @@ library(magrittr)
 
 # Welcome!
 
-<!-- You can include images saved within your repo... 
-```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
-knitr::include_graphics('img/hello-world.png')
-```
--->
-
 Hello! This is a collection of my three cool ideas for W201 Fall 2017.
 
-<!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. 
-<p>
-```{r hello-benji,echo=FALSE,fig.cap='Hello Benjamin Franklin!',fig.align='center'}
-knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
-```
--->
 
 ### Abstract of my first cool idea
 
@@ -42,10 +30,10 @@ In the second cool idea, we look at harnessing the powers of social media and ce
 Hi, my name is Kathryn and I'm a MIDS student at UC Berkeley. 
 
 ```{r portrait,echo=FALSE,fig.cap='This is me!',fig.align='center',out.width='50%'}
-knitr::include_graphics('img/kathryn-portrait.jpg')
+knitr::include_graphics('img/kathryn_portrait.jpg')
 ```
 
-I grew up an avid downhill skiier, lover of basketball and volleyball, and aspiring mathematician in Calgary, Canada. Following the career path of both my parents, I went on to become an engineer and in June 2016 I graduated from Queen's University with a Bachelors Degree in Mathematics and Engineering.
+I grew up an avid downhill skiier, lover of basketball and volleyball, and aspiring mathematician in Calgary, Canada. Following the career path of both my parents, I went on to become an engineer: in June 2016 I graduated from Queen's University with a Bachelors Degree in Mathematics and Engineering.
 
 Shortly after that, I moved to Michigan to join Ford Motor Company's autonomous vehicle group, where I currently work on reliability models, functional safety and other systems engineering projects.
 

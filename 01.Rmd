@@ -10,7 +10,7 @@ Have you ever scrolled through your news feed to find an infographic displaying 
 
 Governments across the world collect and publish large amounts of data every year, typically obtained through censuses or other pointed studies. This data is readily available online, but often comes in the form of hefty files or long-winded reports. Other bodies, such as business or non-profit organizations, also collect and publish valuable information that could positively impact education or decision making. Unfortunately, the insights from these datasets often don't make it past page three of a tab buried deep within an unassuming website.
 
-```{r good-infographics,echo=FALSE,fig.cap='An infographic describing infographic best practices.',fig.align='center',out.width='50%'}
+```{r good-infographics,echo=FALSE,fig.cap='An infographic describing infographic best practices.',fig.align='center',out.width='80%'}
 knitr::include_graphics('img/good_infographics.png')
 ```
 
@@ -18,7 +18,7 @@ knitr::include_graphics('img/good_infographics.png')
 
 I would like to take advantage of these datasets to produce an educational visualization database and search tool. The product will routinely read and process data posted by verifiable research bodies. Each data set will be tagged by topic using natural language processing, and then aggregated with data processed from other sources that covers the same subject. A variety of visualization styles or templates, including different types of charts, graphs, and phrases combined to form short video clips, pictures, or reports, will be constructed.
 
-```{r infographic-types,echo=FALSE,fig.cap='A satirical infographic outlining a variety infographic types.',fig.align='center',out.width='50%'}
+```{r infographic-types,echo=FALSE,fig.cap='A satirical infographic outlining a variety infographic types.',fig.align='center',out.width='80%'}
 knitr::include_graphics('img/infographic_types.png')
 ```
 
@@ -36,4 +36,4 @@ knitr::include_graphics('img/facebook_newsfeed.jpg')
 
 That being said, the product shows great potential at this preliminary stage. The tool will have the ability to be easily integrated with both formal reports and social media newsfeeds, or used directly in educational institutions and workplaces alike.  In addition to its entertainment value, the product provides an educational solution for people of any walk of life to visualize the reality of important topics such as politics or economics, which in turn allows truthful knowledge to disseminate through the greater public. This knowledge, as a result, has the potential to positively impact personal and public decision making.
 
-The product will no doubt be a valuable tool that brings two existing worlds, media and research, together for the greater good. 
+**The product will no doubt be a valuable tool that brings two existing worlds, media and research, together for the greater good. **
