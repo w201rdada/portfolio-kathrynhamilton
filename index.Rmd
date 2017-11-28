@@ -14,8 +14,14 @@ library(magrittr)
 
 # Welcome! {-}
 
-Hello! This is a collection of my three cool ideas for W201 Fall 2017.
+Hello! This is a collection of my first two cool ideas for W201 Fall 2017. You can hear more about them in the following video.
 
+```{r video,echo=FALSE,fig.cap='Here is an explanation of my ideas!',fig.align='center',out.width='80%'}
+knitr::include_url("http://www.youtube.com/embed/9bZkp7q19f0?rel=0")
+```
+
+
+In case you didn't catch that, here is a high-level summary of my two ideas.
 
 ### Abstract of my first cool idea
 
@@ -29,7 +35,7 @@ In the second cool idea, we look at harnessing the powers of social media and ce
 
 Hi, my name is Kathryn and I'm a MIDS student at UC Berkeley. 
 
-```{r portrait,echo=FALSE,fig.cap='This is me!',fig.align='center',out.width='50%'}
+```{r portrait,echo=FALSE,fig.cap='This is me!',fig.align='center',out.width='35%'}
 knitr::include_graphics('img/kathryn_portrait.jpg')
 ```
 
