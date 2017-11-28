@@ -1,4 +1,4 @@
-# 2 - Mega Storms {#mega-storms}
+# Mega Storms {#mega-storms}
 ###Real-Time Optimization of Resource Allocation in Large Storms
 
 #### Keywords
