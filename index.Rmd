@@ -23,13 +23,13 @@ knitr::include_url("https://drive.google.com/file/d/1Qxd-TfLKDmBPeW0xsM-JfzgaQKP
   
 Here is a high level summary of both of my cool ideas, in case videos aren't for you.
   
-### Abstract: Mega Storms Idea {-}
+### Idea Abstract: Mega Storms {-}
 
-In this cool idea, I look at harnessing the powers of social media and cellular networks to save lives during tropical storms or tornadoes.
+In this cool idea, I look at harnessing the powers of social media, meterorologists and cellular networks to save lives during tropical storms or tornadoes. This system would compile data from a variety of sources during critical events to allow governments and relief providers the ability to: efficiently allocate resources, check-in with individual citizens, provide timely information to citizens on a mass scale.
 
-### Abstract: Infographic Database Idea {-}
+### Idea Abstract: Infographic Database {-}
 
-In this cool idea, I look at compiling scientific study results into an easily accessible and structured database for public consumption.
+In this cool idea, I look at compiling scientific study results into an easily accessible and structured database for public consumption. The tool would operate similar to a search engine, where a user inputs keywords about the information they are looking for. The engine would poll its database and automatically generates infographics and other visualizations which can be fine-tuned and exported by the user.
 
 ## About the author {-}
 
@@ -41,7 +41,7 @@ knitr::include_graphics('img/kathryn_portrait.jpg')
 
 I grew up an avid downhill skiier, lover of basketball and volleyball, and aspiring mathematician in Calgary, Canada. Following the career path of both my parents, I went on to become an engineer: in June 2016 I graduated from Queen's University with a Bachelors Degree in Mathematics and Engineering.
 
-Shortly after that, I moved to Michigan to join Ford Motor Company's autonomous vehicle group, where I currently work on reliability models, functional safety and other systems engineering projects.
+Shortly after that, I moved to Michigan to join Ford Motor Company's autonomous vehicle group, where I currently work on reliability modeling, functional safety and other systems engineering projects.
 
 In September 2017, I started MIDS and am looking forward to the next couple years of learning all about data!
 
