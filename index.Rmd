@@ -12,7 +12,7 @@ library(magrittr)
 ```
 
 
-# Welcome!
+# Welcome! {-}
 
 Hello! This is a collection of my three cool ideas for W201 Fall 2017.
 
@@ -25,7 +25,7 @@ In the first cool idea, we look at compiling scientific study results into an ea
 
 In the second cool idea, we look at harnessing the powers of social media and cellular networks to save lives during tropical storms or tornadoes.
 
-## About the author
+## About the author {-}
 
 Hi, my name is Kathryn and I'm a MIDS student at UC Berkeley. 
 
