@@ -1,7 +1,7 @@
 # Infographic Database {#infographic-database}
-###Spreading Knowledge, One Infographic at a Time
+###Spreading Knowledge, One Infographic at a Time {-}
 
-#### Keywords
+#### Keywords {-}
 
 infographic, database, integrity, social media, knowledge, facts
 

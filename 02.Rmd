@@ -1,7 +1,7 @@
 # Mega Storms {#mega-storms}
-###Real-Time Optimization of Resource Allocation in Large Storms
+###Real-Time Optimization of Resource Allocation in Large Storms {-}
 
-#### Keywords
+#### Keywords {-}
 
 storms, resource allocation, first responders, displacement, government, social media, optimization, real-time
 
