@@ -17,7 +17,7 @@ library(magrittr)
 Hello! This is a collection of my first two cool ideas for W201 Fall 2017. You can hear more about my candidate idea in the following video.
 
 ```{r video,echo=FALSE,fig.cap='Here is an explanation of my ideas!',fig.align='center',out.width='80%'}
-knitr::include_url("https://drive.google.com/a/berkeley.edu/file/d/1Qxd-TfLKDmBPeW0xsM-JfzgaQKPJJQMp/view?usp=sharing")
+knitr::include_url("https://drive.google.com/file/d/1Qxd-TfLKDmBPeW0xsM-JfzgaQKPJJQMp/preview")
 ```
 
   
