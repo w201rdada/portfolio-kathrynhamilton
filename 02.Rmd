@@ -3,7 +3,7 @@
 
 #### Keywords {-}
 
-storms, resource allocation, first responders, displacement, government, social media, optimization, real-time
+resource allocation, first responders, displacement, government, social media, optimization, real-time
 
 ## The Storm Front
 
@@ -30,7 +30,7 @@ There are several roadblocks that immediately restrict this solution.
 
 Firstly, information privacy will be a concern of impacted citizens, as the system may need to collect data without informed consent. In this respect, there is a tradeoff between storing personal information regarding the location of individuals, which may be helpful in reuniting families after a storm, versus cleaning personal information from collected data to protect the privacy rights of individuals. While more descriptive data stands to improve the system's accuracy and efficiency, even the barest data set, devoid of any personal information, may still have a significant impact on the ability for municipalities to dispatch rescue workers and other resources. In addition, there is potential for individual location and status information to be collected without breaching personal privacy, for example by using natural language process algorithms to interpret public social media posts relevant to the storm.
 
-```{r zello,echo=FALSE,fig.cap='Austin-based mobile application Zello took a lead role in emergency communication during 2017s Hurricane Harvey',fig.align='center',out.width='70%'}
+```{r zello,echo=FALSE,fig.cap='Austin-based app Zello took a lead role in communication during 2017s Hurricane Harvey',fig.align='center',out.width='70%'}
 knitr::include_graphics('img/zello.jpg')
 ```
 
