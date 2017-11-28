@@ -1,10 +1,11 @@
-# Mega Storms: Real-Time Optimization of Resource Allocation in Large Storms {#storm-resource-optimization}
+# 2 - Mega Storms {#mega-storms}
+###Real-Time Optimization of Resource Allocation in Large Storms
 
 #### Keywords
 
 storms, resource allocation, first responders, displacement, government, social media, optimization, real-time
 
-## The Storm Front.
+## The Storm Front
 
 Nature is at times anything but gentle and although we too have the power to raise and level cities, people are frequently left helpless during and after massive storms such as hurricanes, tornadoes and earthquakes. While emergency response systems have improved dramatically in the past century, people still endure great risk during storm events regardless of preparation or foresight. The advancements in connectivity over the past couple decades, however, may stand to develop storm response systems by optimizing the allocation of emergency responders and supplies, which can ultimately save lives.
 
@@ -13,17 +14,17 @@ knitr::include_graphics('img/sandy-storm.jpg')
 ```
 
 
-## The Eye of the Storm.
+## The Eye of the Storm
 
 To what extent can connectivity improve storm safety and relief efforts? We will only know for certain when these types of systems are used first-hand to combat the effects of a natural disaster, but upon first glance I believe the impact could be staggering.
 
-```{r twitter-harvey,echo=FALSE,fig.cap='A citizen uses social media platform Twitter to seek rescue efforts during 2017s Hurricane Harvey.',fig.align='center',out.width='70%'}
+```{r twitter-harvey,echo=FALSE,fig.cap='A citizen uses Twitter to seek help during 2017s Hurricane Harvey.',fig.align='center',out.width='50%'}
 knitr::include_graphics('img/twitter-harvey.jpg')
 ```
 
 The proposed solution uses an aggregation of real-time social media and mobile device data to track the location and status of people during a storm in combination with meteorological data forecasting a storm's movement, characteristics and strength. The system is best implemented as a government-funded tool that, in conjunction with social media services and cellular data providers, collects user data during inclement weather. In addition to gathering data, the tool pushes notifications to citizens' cellular devices, through an embedded operating system functionality, for example, which allows people to check in with authorities as safe or request emergency assistance. This information, combined with real-time population density and movement data from social media posts or cellular device locations, and storm path data from meterological prediction algorithms, will be aggregated and provided to decision makers. These insights will provide sufficient information to effectively allocate available resources, including rescue workers, medical supplies, food, water and shelter, on a real-time basis. The result is an emergency response system that can have an impactful presense during both the onset and peak of a storm, in addition to the days, weeks, or months of repairs that take place afterwards.
 
-## The Aftermath.
+## The Aftermath
 
 There are several roadblocks that immediately restrict this solution. 
 
